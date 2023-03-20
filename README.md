@@ -9,10 +9,11 @@
 - 3.) Basic Syntax
 - 4.) Variables (Local,Global)
 - 5.) Operators
-- 6.) Functions
-- 7.) Tables
-- 8.) Loops
-- 9.) Thread
+- 6.) Conditions
+- 7.) Functions
+- 8.) Tables
+- 9.) Loops
+- 10.) Thread
 
 ## บทที่ 2 Lua-Exploit
 แนะนำให้ไปดูส่วนของเนื้อหา Lua แบบปกติก่อนเพราะจะไม่มีการสอนย้อนหลังในบทนี้
