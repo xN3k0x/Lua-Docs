@@ -20,9 +20,10 @@
 
 ## บทที่ 3 Lua-Exploit
 แนะนำให้ไปดูส่วนของเนื้อหา Lua แบบปกติก่อนเพราะจะไม่มีการสอนย้อนหลังในบทนี้
-- 1.) Game Explorers and Properties
-- 2.) Remote Event and Remote Function
-- 3.) Services
-- 4.) Basic Roblox Function (IsA, FindFirstChild, FindFirstChildOfClass, GetChildren, GetDescendants)
-- 5.) Fire Click Detector / Touch Interest / Proximity Prompt
-- 6.) Basic Auto Farm
+- 1.) Begin
+- 2.) Game Explorers and Properties
+- 3.) Remote Event and Remote Function
+- 4.) Services
+- 5.) Basic Roblox Function (IsA, FindFirstChild, FindFirstChildOfClass, GetChildren, GetDescendants)
+- 6.) Fire Click Detector / Touch Interest / Proximity Prompt
+- 7.) Basic Auto Farm
