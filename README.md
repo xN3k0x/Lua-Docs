@@ -15,10 +15,7 @@
 - 9.) Loops
 - 9.1.) Thread (เนื้อหาเสริม)
 
-## บทที่ 2 Lua-Advanced
-- ขก. ทำ
-
-## บทที่ 3 Lua-Exploit
+## บทที่ 2 Lua-Exploit (Luau)
 แนะนำให้ไปดูส่วนของเนื้อหา Lua แบบปกติก่อนเพราะจะไม่มีการสอนย้อนหลังในบทนี้
 - 1.) Begin
 - 2.) Game Explorers and Properties
